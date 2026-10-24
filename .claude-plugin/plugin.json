@@ -1,7 +1,8 @@
 {
   "name": "content-mill-facebook",
+  "displayName": "Facebook by Content Mill",
   "description": "Schedule and publish Facebook Page posts from chat: write posts, add photos or video, preview each one, and track what's scheduled or published. Facebook scheduler by Content Mill.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": {
     "name": "Content Mill",
     "email": "support@contentmill.dev",
