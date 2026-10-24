@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "content-mill": {
+      "type": "http",
+      "url": "https://fb-mcp.contentmill.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "content-mill-facebook",
+  "description": "Schedule and publish Facebook Page posts from chat: write posts, add photos or video, preview each one, and track what's scheduled or published. Facebook scheduler by Content Mill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Content Mill",
+    "email": "support@contentmill.dev",
+    "url": "https://contentmill.dev"
+  },
+  "homepage": "https://contentmill.dev",
+  "repository": "https://github.com/content-mill/claude-plugin-facebook",
+  "license": "MIT",
+  "keywords": [
+    "facebook",
+    "facebook pages",
+    "facebook scheduler",
+    "scheduler",
+    "social media",
+    "mcp",
+    "content mill"
+  ]
+}

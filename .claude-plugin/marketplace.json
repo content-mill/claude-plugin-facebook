@@ -1,0 +1,17 @@
+{
+  "name": "content-mill-facebook",
+  "owner": {
+    "name": "Content Mill",
+    "email": "support@contentmill.dev"
+  },
+  "metadata": {
+    "description": "Schedule and publish Facebook Page posts from chat: write posts, add photos or video, preview each one, and track what's scheduled or published. Facebook scheduler by Content Mill."
+  },
+  "plugins": [
+    {
+      "name": "content-mill-facebook",
+      "source": "./",
+      "description": "Schedule and publish Facebook Page posts from chat: write posts, add photos or video, preview each one, and track what's scheduled or published. Facebook scheduler by Content Mill."
+    }
+  ]
+}
